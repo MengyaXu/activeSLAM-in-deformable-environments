@@ -25,7 +25,7 @@ Different models can be selected by changing the option parameter "op" at the be
     -- op = 1, the robot odometry is predetermined.
     -- op = 2, the robot odometry is planned by the local planner.
     
-- "global_main.m" for the global planner and the combined planner
+- "global_main.m"
     -- op = 21, the robot odometry is planned by the global planner.
     -- op = 22, the robot odometry is planned by the combined planner.
 
